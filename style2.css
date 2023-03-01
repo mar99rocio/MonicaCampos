@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+*{
+    font-family: 'Oswald', sans-serif;
+  
+}
+
+body{ background-color:  rgb(189, 205, 214);
+}
+#perfil{
+  border-radius: 50%;
+}
+#header {
+  background-color: rgb(96, 150, 180);
+  color: black;
+  font-size: 15px; 
+  text-align: center;
+  font-weight: bold;
+  position: fixed;
+  margin-left: -10px;
+  top: 0px;
+  width:2100px;
+  transition: 0.2s;}
+
+#textos{
+  margin-top: 10px;
+ }
+#direccion{
+  margin-left: 140px;
+  width: auto;
+  height: auto;
+  display: flex;
+  display: inline-block;
+  align-content: center;
+  }
+
+  #direimg{
+    margin-left: 650px;
+    margin-top: 300px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    align-content: center;
+  }
+
+  #mailimg{
+    margin-top: auto;
+  margin-left: 150px;
+  width: auto;
+  height: auto;
+  display: inline-block;
+  align-content: center;
+  }
+
+  #telimg{
+    margin-top: auto;
+    margin-left: 200px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    align-content: center;
+  }
+
+  #calimg{
+    margin-top: auto;
+  margin-left: 120px;
+  width: auto;
+  height: auto;
+  display: inline-block;
+  align-content: center;
+  }
+
+  #direccion{
+    margin-top: auto;
+    margin-left: 630px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    align-content: center;
+    }
+
+    #mail{
+      margin-top: auto;
+      margin-left: 65px;
+      width: auto;
+      height: auto;
+      display: inline-block;
+      align-content: center;
+      }
+
+      #telefono{
+        margin-top: auto;
+        margin-left: 110px;
+        width: auto;
+        height: auto;
+        display: inline-block;
+        align-content: center;
+        }
+
+        #fecha{
+          margin-top: auto;
+          margin-left: 95px;
+          width: auto;
+          height: auto;
+          display: inline-block;
+          align-content: center;
+          }
+
+          #cabeceras{
+          margin-top: 100px;
+          }
+
+#carta{
+  text-align: center;
+  font-size: 25px;
+  margin-left: 670px;
+  width: 650px;
+          height: auto;
+    margin-top: 0px;
+}
+
+          #qs{
+            margin-top: auto;
+            margin-left: 400px;
+            width: auto;
+            height: auto;
+            display: inline-block;
+            align-content: center;
+            }
+       #me{
+        margin-top: auto;
+            margin-left: 450px;
+            width: auto;
+            height: auto;
+            display: inline-block;
+            align-content: center;
+       }
+       #e{
+          margin-top: auto;
+            margin-left: 400px;
+            width: auto;
+            height: auto;
+            display: inline-block;
+            align-content: center;
+       }
+
+       #textos{
+        margin-top: 20px;
+       }
+       
+
+       #T1{
+        width: 400px;
+        text-align: center;
+        margin-left: 250px;
+       }
+
+       #T2{
+        margin-top: -85px;
+        text-align: center;
+        margin-left: 800px;
+        width: 400px;
+       }
+
+       #T3{
+        margin-top: -350px;
+        width: 400px;
+        text-align: center;
+        margin-left: 1300px;
+       }
+
+       #final{
+        margin-top: 300px;
+        text-align: center;
+        margin-left: 670px;
+        width: 650px;
+        height: auto;
+        font-size: 25px;
+       }
